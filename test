@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+
+  </head>
+  <body>
+    <h1>AppDeGatos</h1>
+    <main>
+      <h2>Imágenes de Gatos:</h2>
+      <!-- TODO: No anda un pingo esto  -->
+  
+      <p><a href ="https://www.xvideos.com/?k=gatitos" target="_blank" rel="noopener noreferrer">Haz click aqui</a> para ver videos de gatos.</p>
+    
+      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer"><img src="https://img.freepik.com/foto-gratis/gato-sobre-fondo-blanco_155003-15381.jpg?w=740&t=st=1664532320~exp=1664532920~hmac=a3c7ab7cd0dd45062f0fa3d95b788539338c335dc4ee26e7dd12983d2f52e827" alt="Foto de gatito piolita paradito color blanco facherito" height="600"></a>
+
+      <img src="imagenes/otro gato pero local.jpg" alt="gatito siames facherin facherito" height="600">
+      
+      <a href ="#" target="_blank" rel="noopener noreferrer">Enlace muerto</a>
+    </main>
+  </body>
+</html>
